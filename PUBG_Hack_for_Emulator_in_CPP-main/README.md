@@ -9,7 +9,7 @@
 PUBG ESP Hack for Emulator using C++ code.\
 Player Position, Bones, Loots, Weapons, Vehicles, Boxes ... etc.
 
-* **INSTAGRAM** : Zero One Billion ( [https://www.instagram.com/g3ng4r_dreamxnxx/) )
+* **INSTAGRAM** : G3NG4R_DREAMXD ( [https://www.instagram.com/g3ng4r_dreamxnxx/) )
 * **Author** : Programmer / Dream xD
 
 
